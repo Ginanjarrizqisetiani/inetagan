@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/logo_PT Mulkan.png')}}"width="190px">
